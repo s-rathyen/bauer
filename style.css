@@ -1,0 +1,51 @@
+.ui.borderless.firstmenu.menu, .ui.borderless.secondmenu.menu {
+  box-shadow: none;
+  margin: 0px!important;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.ui.borderless.secondmenu.menu {
+  padding-top: 20px;
+  border-top: 0px;
+}
+
+.ui.equal.width.grid {
+  padding: 50px;
+}
+
+.ui.centered.b1.grid, .ui.fluid.inverted.grid, .ui.centered.b2.grid {
+  margin-top: 0px;
+  padding-top: 20px;
+  background-color: #1B1C1D;
+
+}
+
+.ui.centered.b1.grid .ui.header {
+  color: white;
+  font-style: italic;
+}
+
+.ui.fluid.inverted.grid, .ui.fluid.inverted.grid a, .ui.centered.b2.grid a, .ui.borderless.m1.menu a {
+  color: #6E6D6F;
+}
+
+.ui.centered.b2.grid {
+  padding-bottom: 50px;
+}
+
+.ui.borderless.inverted.menu {
+  border-radius: 0px;
+  margin: 0;
+}
+
+.ui.borderless.m1.menu {
+  border-top: 1px solid #6E6D6F;
+  border-bottom: 1px solid #6E6D6F;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.ui.fluid.inverted.grid {
+  padding-bottom: 50px;
+}
