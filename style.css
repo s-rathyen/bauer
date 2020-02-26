@@ -1,13 +1,13 @@
 .ui.borderless.firstmenu.menu, .ui.borderless.secondmenu.menu {
   box-shadow: none;
-  margin: 0px!important;
+  margin: 0 !important;
   padding-left: 30px;
   padding-right: 30px;
 }
 
 .ui.borderless.secondmenu.menu {
   padding-top: 20px;
-  border-top: 0px;
+  border-top: 0;
 }
 
 .ui.equal.width.grid {
@@ -15,7 +15,7 @@
 }
 
 .ui.centered.b1.grid, .ui.fluid.inverted.grid, .ui.centered.b2.grid {
-  margin-top: 0px;
+  margin-top: 0;
   padding-top: 20px;
   background-color: #1B1C1D;
 
@@ -35,7 +35,7 @@
 }
 
 .ui.borderless.inverted.menu {
-  border-radius: 0px;
+  border-radius: 0;
   margin: 0;
 }
 
